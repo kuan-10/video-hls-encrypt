@@ -8,9 +8,9 @@ TODO LIST
 * 实现简单的登录和未登录播放加密视频的效果
 
 ## Do more better
-* 实现七牛加密相关的demo,只需要替代视频自行转码并加密部分
+<!-- * 实现七牛加密相关的demo,只需要替代视频自行转码并加密部分
 * 利用node中与FFmpeg相关的第三方插件实现相关需求
-* 美化界面
+* 美化界面 -->
 
 ## FFmpeg Command
 * ffmpeg转mp4为加密后的hls
